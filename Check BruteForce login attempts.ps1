@@ -8,11 +8,11 @@
 .EXAMPLE
      -Hours 10
     Number of hours back in time to look through in the event log.
-    Default is 1 hour.
+    Default is 168 hour (7 days).
 .EXAMPLE
     -Attempts 100
     Number of login attempts to trigger at or above this number.
-    Default is 8 attempts.
+    Default is 5 attempts.
 .OUTPUTS
     PSCustomObject[]
 .NOTES
