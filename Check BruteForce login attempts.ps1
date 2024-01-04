@@ -1,5 +1,4 @@
 #Requires -Version 5.1
-#Uploaded and Tested by Akash Ahuja on 12/19/2023
 
 <#
 .SYNOPSIS
