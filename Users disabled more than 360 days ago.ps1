@@ -1,4 +1,5 @@
-﻿# Import the Active Directory module if not already loaded
+# This script can be used to audit Active Directory for user accounts that have been disabled for more than 360 days.
+# Import the Active Directory module if not already loaded
 Import-Module ActiveDirectory
 
 # Get the current date
